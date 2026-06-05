@@ -1,0 +1,15 @@
+{
+  "name": "discord-voice-notifier-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord tự ping role khi có người vào voice channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
